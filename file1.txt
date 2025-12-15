@@ -6,6 +6,6 @@ file4
 file5
 =======
 >>>>>>> main
-givi
+giviaaaa
 davamate line 1
 nona
