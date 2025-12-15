@@ -1,5 +1,8 @@
 file1
 file2 
 file3
+<<<<<<< HEAD
 file4
 file5
+=======
+>>>>>>> main
