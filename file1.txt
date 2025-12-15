@@ -12,6 +12,14 @@ davamate line 1
 nona
 =======
 >>>>>>> main main1 
+<<<<<<< HEAD
+<<<<<<< HEAD
+giviaaaa 1323123 5444444444444444444444444 2222222222222222222222222222222222
+=======
 giviaaaa 1323123 5444444444444444444444444 123123121231242342
+>>>>>>> bug1
+=======
+giviaaaa 1323123 544444444444eqwrwewer4 222222222222eqweqweqweq22222222
+>>>>>>> d53e441 (change line)
 davamate line 1 2132134234543w 
 >>>>>>> developerAA
